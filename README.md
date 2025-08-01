@@ -45,8 +45,8 @@ This chatbot leverages **prompt-only** engineering with Mistral-7B to generate c
 ```
 📦task-4-health-chatbot
  ┣ 📜README.md
- ┣ 📜colab_notebook_link.txt  # (If applicable)
- ┗ 📜requirements.txt (Optional)
+ ┣ 📜Task 4 - General Health Query Chatbot | DeveloperHub Internship.ipynb
+ ┗ 📜license
 ```
 
 ---
